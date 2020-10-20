@@ -6,7 +6,7 @@ The app has a responsive design and fits for mobile screens and for wide-screen 
 The App is acting as Single Page Application. Routing performs without reloading the webpage.
 
 
-
+![index page](./screenshots/index.page.png)
 
 
 ## Available Scripts
