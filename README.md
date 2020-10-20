@@ -1,8 +1,11 @@
 # Burger Builder
 
-Web application, where user can build own burger by dynamicly adding ingredients. Burger availble to order through the order functionality. Information about order is stored in Firebase API. 
-The app has responsive design and fit for mobile screens and for wide-sceen monitors as well.
-The App is acting as Single Page Aplication.
+Web application, where user can build own burger by dynamically adding ingredients. 
+Burger available to order through the order functionality. Information about the order is stored in the Firebase API. 
+The app has a responsive design and fits for mobile screens and for wide-screen monitors as well. 
+The App is acting as Single Page Application. Routing performs without reloading the webpage.
+
+
 
 
 
