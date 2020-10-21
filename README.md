@@ -1,9 +1,6 @@
-# Burger Builder
+# My Burger
 
-Web application, where user can build own burger by dynamically adding ingredients. 
-Burger available to order through the order functionality. Information about the order is stored in the Firebase API. 
-The app has a responsive design and fits for mobile screens and for wide-screen monitors as well. 
-The App is acting as Single Page Application. Routing performs without reloading the webpage.
+A SPA web application on React(using functional and class based components, Redux, React-Routing, Hooks), where users can build their own burger by dynamically adding ingredients. The burger available to order through the order functionality. Information about the order is stored in the Firebase API. The app has a responsive design and fits for mobile screens and for wide-screen monitors as well. Routing performs without reloading the webpage. App is deployed on Firebase.google.com
 
 
 ![index page](./screenshots/indexpage.png)
